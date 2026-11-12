@@ -17,6 +17,7 @@ public class Hashmap{
         System.out.println(map);
 
         if(map.containsKey("Indiaa")){
+            
             System.out.println("yes");
         }else{
             System.out.println("No");
