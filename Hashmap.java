@@ -8,6 +8,7 @@ public class Hashmap{
         map.put("India",30);
         
         map.put("USA",20);
+        
         map.put("Russia",10);
 
         System.out.println(map);
