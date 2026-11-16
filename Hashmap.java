@@ -27,6 +27,7 @@ public class Hashmap{
 
         //Deletion
         map.remove("USA");
+        
         System.out.println(map);
 
         //Iteration
