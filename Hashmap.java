@@ -45,6 +45,7 @@ public class Hashmap{
         for(String key : keys){
             
             System.out.println(key+":"+map.get(key));
+            
         }
     }
 }
