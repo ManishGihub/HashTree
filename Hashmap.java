@@ -23,6 +23,7 @@ public class Hashmap{
         if(map.containsKey("Indiaa")){
             
             System.out.println("yes");
+            
         }else{
             System.out.println("No");
         }
